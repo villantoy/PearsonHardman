@@ -109,3 +109,11 @@ img {
 .dot.active{
     background-color: var(--secondary-bg-color);
 }
+
+#other-services{
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+    
+}
